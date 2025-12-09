@@ -1,12 +1,8 @@
 # robots.txt for Safety First SOS System
+# Allows all search engines to crawl the site
 
 User-agent: *
 Allow: /
 
-# Block unnecessary files & folders
-Disallow: /node_modules/
-Disallow: /src/
-Disallow: /public/
-
-# Sitemap Location
+# Sitemap location
 Sitemap: https://safetyfirstsossystem.dedyn.io/sitemap.xml
