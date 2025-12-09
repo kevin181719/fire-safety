@@ -1,28 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Homepage -->
+  <!-- Home -->
   <url>
     <loc>https://safetyfirstsossystem.dedyn.io/</loc>
-    <lastmod>2025-08-14T06:40:00+00:00</lastmod>
+    <lastmod>2025-12-09T06:40:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!-- About Page -->
+  <!-- Auth Pages -->
+  <url>
+    <loc>https://safetyfirstsossystem.dedyn.io/login</loc>
+    <lastmod>2025-12-09T06:40:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://safetyfirstsossystem.dedyn.io/signup</loc>
+    <lastmod>2025-12-09T06:40:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Static Info Pages -->
+  <url>
+    <loc>https://safetyfirstsossystem.dedyn.io/home</loc>
+    <lastmod>2025-12-09T06:40:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
   <url>
     <loc>https://safetyfirstsossystem.dedyn.io/about</loc>
-    <lastmod>2025-08-14T06:40:00+00:00</lastmod>
+    <lastmod>2025-12-09T06:40:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://safetyfirstsossystem.dedyn.io/blog</loc>
+    <lastmod>2025-12-09T06:40:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://safetyfirstsossystem.dedyn.io/team</loc>
+    <lastmod>2025-12-09T06:40:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://safetyfirstsossystem.dedyn.io/testimonial</loc>
+    <lastmod>2025-12-09T06:40:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- IoT / Data Pages -->
+  <url>
+    <loc>https://safetyfirstsossystem.dedyn.io/liveData</loc>
+    <lastmod>2025-12-09T06:40:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://safetyfirstsossystem.dedyn.io/alerts</loc>
+    <lastmod>2025-12-09T06:40:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://safetyfirstsossystem.dedyn.io/getHistoryData</loc>
+    <lastmod>2025-12-09T06:40:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Contact Page -->
+  <!-- User Interaction Pages -->
   <url>
-    <loc>https://safetyfirstsossystem.dedyn.io/contact</loc>
-    <lastmod>2025-08-14T06:40:00+00:00</lastmod>
+    <loc>https://safetyfirstsossystem.dedyn.io/feedback</loc>
+    <lastmod>2025-12-09T06:40:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://safetyfirstsossystem.dedyn.io/complaint</loc>
+    <lastmod>2025-12-09T06:40:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 
 </urlset>
